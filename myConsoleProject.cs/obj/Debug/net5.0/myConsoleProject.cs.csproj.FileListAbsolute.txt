@@ -1,0 +1,16 @@
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\myConsoleProject.cs\bin\Debug\net5.0\myConsoleProject.cs.exe
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\myConsoleProject.cs\bin\Debug\net5.0\myConsoleProject.cs.deps.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\myConsoleProject.cs\bin\Debug\net5.0\myConsoleProject.cs.runtimeconfig.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\myConsoleProject.cs\bin\Debug\net5.0\myConsoleProject.cs.runtimeconfig.dev.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\myConsoleProject.cs\bin\Debug\net5.0\myConsoleProject.cs.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\myConsoleProject.cs\bin\Debug\net5.0\ref\myConsoleProject.cs.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\myConsoleProject.cs\bin\Debug\net5.0\myConsoleProject.cs.pdb
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\myConsoleProject.cs\obj\Debug\net5.0\myConsoleProject.cs.csproj.AssemblyReference.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\myConsoleProject.cs\obj\Debug\net5.0\myConsoleProject.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\myConsoleProject.cs\obj\Debug\net5.0\myConsoleProject.cs.AssemblyInfoInputs.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\myConsoleProject.cs\obj\Debug\net5.0\myConsoleProject.cs.AssemblyInfo.cs
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\myConsoleProject.cs\obj\Debug\net5.0\myConsoleProject.cs.csproj.CoreCompileInputs.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\myConsoleProject.cs\obj\Debug\net5.0\myConsoleProject.cs.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\myConsoleProject.cs\obj\Debug\net5.0\ref\myConsoleProject.cs.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\myConsoleProject.cs\obj\Debug\net5.0\myConsoleProject.cs.pdb
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\myConsoleProject.cs\obj\Debug\net5.0\myConsoleProject.cs.genruntimeconfig.cache
