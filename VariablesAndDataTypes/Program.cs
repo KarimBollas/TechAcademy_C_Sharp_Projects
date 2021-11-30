@@ -46,7 +46,7 @@ namespace VariablesAndDataTypes
             string rainingStatus = Convert.ToString(isRaining);
 
 
-            Console.WriteLine("Raining?: "+ rainingStatus);
+            Console.WriteLine("years?: "+ currentAge.ToString());
             Console.ReadKey();
 
 

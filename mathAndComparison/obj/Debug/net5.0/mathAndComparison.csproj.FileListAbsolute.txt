@@ -1,0 +1,16 @@
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\mathAndComparison\bin\Debug\net5.0\mathAndComparison.exe
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\mathAndComparison\bin\Debug\net5.0\mathAndComparison.deps.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\mathAndComparison\bin\Debug\net5.0\mathAndComparison.runtimeconfig.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\mathAndComparison\bin\Debug\net5.0\mathAndComparison.runtimeconfig.dev.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\mathAndComparison\bin\Debug\net5.0\mathAndComparison.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\mathAndComparison\bin\Debug\net5.0\ref\mathAndComparison.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\mathAndComparison\bin\Debug\net5.0\mathAndComparison.pdb
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\mathAndComparison\obj\Debug\net5.0\mathAndComparison.csproj.AssemblyReference.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\mathAndComparison\obj\Debug\net5.0\mathAndComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\mathAndComparison\obj\Debug\net5.0\mathAndComparison.AssemblyInfoInputs.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\mathAndComparison\obj\Debug\net5.0\mathAndComparison.AssemblyInfo.cs
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\mathAndComparison\obj\Debug\net5.0\mathAndComparison.csproj.CoreCompileInputs.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\mathAndComparison\obj\Debug\net5.0\mathAndComparison.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\mathAndComparison\obj\Debug\net5.0\ref\mathAndComparison.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\mathAndComparison\obj\Debug\net5.0\mathAndComparison.pdb
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\mathAndComparison\obj\Debug\net5.0\mathAndComparison.genruntimeconfig.cache
