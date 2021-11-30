@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31910.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myConsoleProject.cs", "myConsoleProject.cs.csproj", "{72EF087E-5041-4F34-BACB-444DCEBE0BD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "myConsoleProject.cs", "myConsoleProject.cs.csproj", "{72EF087E-5041-4F34-BACB-444DCEBE0BD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesAndDataTypes", "..\VariablesAndDataTypes\VariablesAndDataTypes.csproj", "{03CC5320-8685-4C31-88FC-7F8BB24AA9BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "daylyReport", "..\daylyReport\daylyReport.csproj", "{B803E004-1703-49EF-AFFF-9AA630AED061}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{72EF087E-5041-4F34-BACB-444DCEBE0BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72EF087E-5041-4F34-BACB-444DCEBE0BD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72EF087E-5041-4F34-BACB-444DCEBE0BD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03CC5320-8685-4C31-88FC-7F8BB24AA9BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03CC5320-8685-4C31-88FC-7F8BB24AA9BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03CC5320-8685-4C31-88FC-7F8BB24AA9BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03CC5320-8685-4C31-88FC-7F8BB24AA9BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B803E004-1703-49EF-AFFF-9AA630AED061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B803E004-1703-49EF-AFFF-9AA630AED061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B803E004-1703-49EF-AFFF-9AA630AED061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B803E004-1703-49EF-AFFF-9AA630AED061}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

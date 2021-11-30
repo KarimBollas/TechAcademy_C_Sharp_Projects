@@ -1,0 +1,16 @@
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\VariablesAndDataTypes\bin\Debug\net5.0\VariablesAndDataTypes.exe
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\VariablesAndDataTypes\bin\Debug\net5.0\VariablesAndDataTypes.deps.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\VariablesAndDataTypes\bin\Debug\net5.0\VariablesAndDataTypes.runtimeconfig.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\VariablesAndDataTypes\bin\Debug\net5.0\VariablesAndDataTypes.runtimeconfig.dev.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\VariablesAndDataTypes\bin\Debug\net5.0\VariablesAndDataTypes.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\VariablesAndDataTypes\bin\Debug\net5.0\ref\VariablesAndDataTypes.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\VariablesAndDataTypes\bin\Debug\net5.0\VariablesAndDataTypes.pdb
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.csproj.AssemblyReference.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.AssemblyInfoInputs.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.AssemblyInfo.cs
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\VariablesAndDataTypes\obj\Debug\net5.0\ref\VariablesAndDataTypes.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.pdb
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.genruntimeconfig.cache
