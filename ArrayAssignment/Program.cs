@@ -30,7 +30,7 @@ namespace ArrayAssignment
 
 
             Console.WriteLine("Do you know the heights of three highest mounts?  [type 1-3]");
-            i = Convert.ToInt32(Console.ReadLine()); // just three elemnts in array
+            i = Convert.ToInt32(Console.ReadLine()); // just three elements in array
             if (i < 1 || i > 3)
             {
                 Console.WriteLine("Error: Invalid number.");
@@ -42,13 +42,13 @@ namespace ArrayAssignment
 
             Console.WriteLine("Do you know my tree favorite animals?  [type 1-3]");
             i = Convert.ToInt32(Console.ReadLine());
-            if (i < 1 || i > 3) // just three elemnts in array
+            if (i < 1 || i > 3) // just three elements in array
             {
                 Console.WriteLine("Error: Invalid number.");
             }
             else
             {
-                Console.WriteLine(i + ". " + myFavoriteAnimals[i - 1]);
+                Console.WriteLine(i + ". " + myFavoriteAnimals[i - 1]); //i-1 index starts at 0
             }
 
         }
