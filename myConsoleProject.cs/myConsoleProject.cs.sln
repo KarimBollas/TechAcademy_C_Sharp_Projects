@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mathAndComparison", "..\mat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "booleanLogic", "..\booleanLogic\booleanLogic.csproj", "{1F9DAD3B-867E-41BE-857B-5A41AE73A5AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditional", "..\Conditional\Conditional.csproj", "{164989E3-369E-424D-8EF6-E38D060AA6A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shippingQuote", "..\shippingQuote\shippingQuote.csproj", "{DBCB27DB-7E01-4489-BC63-53B600066188}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{1F9DAD3B-867E-41BE-857B-5A41AE73A5AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F9DAD3B-867E-41BE-857B-5A41AE73A5AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F9DAD3B-867E-41BE-857B-5A41AE73A5AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{164989E3-369E-424D-8EF6-E38D060AA6A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164989E3-369E-424D-8EF6-E38D060AA6A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164989E3-369E-424D-8EF6-E38D060AA6A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164989E3-369E-424D-8EF6-E38D060AA6A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBCB27DB-7E01-4489-BC63-53B600066188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCB27DB-7E01-4489-BC63-53B600066188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCB27DB-7E01-4489-BC63-53B600066188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCB27DB-7E01-4489-BC63-53B600066188}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
