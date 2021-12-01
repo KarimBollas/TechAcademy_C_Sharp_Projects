@@ -1,0 +1,16 @@
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\LoopAssignment\bin\Debug\net5.0\LoopAssignment.exe
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\LoopAssignment\bin\Debug\net5.0\LoopAssignment.deps.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\LoopAssignment\bin\Debug\net5.0\LoopAssignment.runtimeconfig.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\LoopAssignment\bin\Debug\net5.0\LoopAssignment.runtimeconfig.dev.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\LoopAssignment\bin\Debug\net5.0\LoopAssignment.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\LoopAssignment\bin\Debug\net5.0\ref\LoopAssignment.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\LoopAssignment\bin\Debug\net5.0\LoopAssignment.pdb
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\LoopAssignment\obj\Debug\net5.0\LoopAssignment.csproj.AssemblyReference.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\LoopAssignment\obj\Debug\net5.0\LoopAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\LoopAssignment\obj\Debug\net5.0\LoopAssignment.AssemblyInfoInputs.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\LoopAssignment\obj\Debug\net5.0\LoopAssignment.AssemblyInfo.cs
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\LoopAssignment\obj\Debug\net5.0\LoopAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\LoopAssignment\obj\Debug\net5.0\LoopAssignment.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\LoopAssignment\obj\Debug\net5.0\ref\LoopAssignment.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\LoopAssignment\obj\Debug\net5.0\LoopAssignment.pdb
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\LoopAssignment\obj\Debug\net5.0\LoopAssignment.genruntimeconfig.cache
