@@ -27,7 +27,7 @@ namespace LoopAssignment
                             isPrime = false;
                         }
                         factor++;           
-                    } while (factor <= Math.Sqrt(n));  // calculate up to square root of n
+                    } while (factor <= Math.Sqrt(n) && !isPrime);  // calculate up to square root of n
                     if (isPrime)    //if isPrime print it
                     {
                         Console.WriteLine(n);
