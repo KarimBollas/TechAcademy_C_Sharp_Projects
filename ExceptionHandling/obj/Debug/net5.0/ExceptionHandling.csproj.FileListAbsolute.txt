@@ -1,0 +1,16 @@
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.exe
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.deps.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.runtimeconfig.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.runtimeconfig.dev.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\ExceptionHandling\bin\Debug\net5.0\ref\ExceptionHandling.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.pdb
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.AssemblyInfo.cs
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\ExceptionHandling\obj\Debug\net5.0\ref\ExceptionHandling.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.pdb
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.genruntimeconfig.cache

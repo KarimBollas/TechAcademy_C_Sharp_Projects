@@ -21,17 +21,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conditional", "..\Condition
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "shippingQuote", "..\shippingQuote\shippingQuote.csproj", "{DBCB27DB-7E01-4489-BC63-53B600066188}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "..\Loops\Loops.csproj", "{A27DB155-5683-4B53-9FDD-B9AB80174FE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "..\Loops\Loops.csproj", "{A27DB155-5683-4B53-9FDD-B9AB80174FE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopAssignment", "..\LoopAssignment\LoopAssignment.csproj", "{CE42DC4E-007A-4559-8DED-791763C8340F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopAssignment", "..\LoopAssignment\LoopAssignment.csproj", "{CE42DC4E-007A-4559-8DED-791763C8340F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysLists", "..\ArraysLists\ArraysLists.csproj", "{0F88373C-6712-4659-9DD6-5E88A9406C72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysLists", "..\ArraysLists\ArraysLists.csproj", "{0F88373C-6712-4659-9DD6-5E88A9406C72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayAssignment", "..\ArrayAssignment\ArrayAssignment.csproj", "{58D8BC89-F660-4444-94AD-5E098CE50246}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayAssignment", "..\ArrayAssignment\ArrayAssignment.csproj", "{58D8BC89-F660-4444-94AD-5E098CE50246}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iteration", "..\Iteration\Iteration.csproj", "{575030D8-68C3-4E58-8F11-A2BFC169312C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iteration", "..\Iteration\Iteration.csproj", "{575030D8-68C3-4E58-8F11-A2BFC169312C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SixPartAssignment", "..\SixPartAssignment\SixPartAssignment.csproj", "{10982597-F7CE-4A22-BF23-53C6EEC46D1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SixPartAssignment", "..\SixPartAssignment\SixPartAssignment.csproj", "{10982597-F7CE-4A22-BF23-53C6EEC46D1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "..\ExceptionHandling\ExceptionHandling.csproj", "{99DAA906-5FF5-4527-A3B6-44534C008F55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsIntegers", "..\StringsIntegers\StringsIntegers.csproj", "{ECC38626-433D-44C2-95E1-47FBFA22F51C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +103,14 @@ Global
 		{10982597-F7CE-4A22-BF23-53C6EEC46D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10982597-F7CE-4A22-BF23-53C6EEC46D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10982597-F7CE-4A22-BF23-53C6EEC46D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99DAA906-5FF5-4527-A3B6-44534C008F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99DAA906-5FF5-4527-A3B6-44534C008F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99DAA906-5FF5-4527-A3B6-44534C008F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99DAA906-5FF5-4527-A3B6-44534C008F55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECC38626-433D-44C2-95E1-47FBFA22F51C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC38626-433D-44C2-95E1-47FBFA22F51C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC38626-433D-44C2-95E1-47FBFA22F51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC38626-433D-44C2-95E1-47FBFA22F51C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
