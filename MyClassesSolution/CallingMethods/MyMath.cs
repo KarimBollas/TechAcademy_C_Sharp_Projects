@@ -48,5 +48,16 @@ namespace CallingMethods
             }
             return isLeap;
         }
+
+        public static int supplementaryAngle(int n) //Method receive an integer returns integer suplementary angle in sexagesimal degrees 
+        {
+            return (180-n);
+        }
+
+        public static int complementaryAngle(int n) //Method receive an integer returns suplementary angle in sexagesimal degrees
+        {
+            return (90 - n);
+        }
+
     }
 }

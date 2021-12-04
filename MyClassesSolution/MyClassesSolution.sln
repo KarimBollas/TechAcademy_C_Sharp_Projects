@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwentyOne", "TwentyOne\TwentyOne.csproj", "{85B0B88F-441E-4582-B7A9-5755207E8BA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwentyOne", "TwentyOne\TwentyOne.csproj", "{85B0B88F-441E-4582-B7A9-5755207E8BA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallingMethods", "CallingMethods\CallingMethods.csproj", "{0A8B1F5B-87E7-462E-8CDB-7B2751B17CBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CallingMethods", "CallingMethods\CallingMethods.csproj", "{0A8B1F5B-87E7-462E-8CDB-7B2751B17CBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainMethodAssignment", "MainMethodAssignment\MainMethodAssignment.csproj", "{18FA15F5-8E4C-4F56-98CA-90965FD3B85D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{0A8B1F5B-87E7-462E-8CDB-7B2751B17CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A8B1F5B-87E7-462E-8CDB-7B2751B17CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A8B1F5B-87E7-462E-8CDB-7B2751B17CBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18FA15F5-8E4C-4F56-98CA-90965FD3B85D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18FA15F5-8E4C-4F56-98CA-90965FD3B85D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18FA15F5-8E4C-4F56-98CA-90965FD3B85D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18FA15F5-8E4C-4F56-98CA-90965FD3B85D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

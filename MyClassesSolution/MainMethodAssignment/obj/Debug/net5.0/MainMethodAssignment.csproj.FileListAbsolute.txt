@@ -1,0 +1,5 @@
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MainMethodAssignment\obj\Debug\net5.0\MainMethodAssignment.csproj.AssemblyReference.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MainMethodAssignment\obj\Debug\net5.0\MainMethodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MainMethodAssignment\obj\Debug\net5.0\MainMethodAssignment.AssemblyInfoInputs.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MainMethodAssignment\obj\Debug\net5.0\MainMethodAssignment.AssemblyInfo.cs
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MainMethodAssignment\obj\Debug\net5.0\MainMethodAssignment.csproj.CoreCompileInputs.cache

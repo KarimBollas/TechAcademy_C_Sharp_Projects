@@ -8,11 +8,8 @@ namespace CallingMethods
         {
 
             Console.WriteLine("The factorial of 5 is: "+ MyMath.returnFactorial(5));
-            Console.WriteLine("Is 40520 a prime number: " + MyMath.answerIsPrime(40520));
-            Console.WriteLine("Is 1996 a leap year?: " + MyMath.answerIsLeap(1996));
-            Console.WriteLine("Is 1998 a leap year?: " + MyMath.answerIsLeap(1998));
-            Console.WriteLine("Is 1800 a leap year?: " + MyMath.answerIsLeap(1800));
-            Console.WriteLine("Is 400 a leap year?: " + MyMath.answerIsLeap(400));
+            Console.WriteLine("The suplementary angle of 110⁰: " + MyMath.supplementaryAngle(110));
+            Console.WriteLine("The complementary angle of 30⁰: " + MyMath.complementaryAngle(30));
             Console.ReadLine();
         }
     }
