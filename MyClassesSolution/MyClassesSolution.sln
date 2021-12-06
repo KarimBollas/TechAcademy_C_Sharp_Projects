@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MainMethodAssignment", "Mai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodSubmission", "MethodSubmission\MethodSubmission.csproj", "{05E11329-9C4E-40A1-A14E-02A1E6E6FEA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodClassSubmission", "MethodClassSubmission\MethodClassSubmission.csproj", "{66FDCB11-ADCA-4BAF-A276-2C137C8D8885}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{05E11329-9C4E-40A1-A14E-02A1E6E6FEA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05E11329-9C4E-40A1-A14E-02A1E6E6FEA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05E11329-9C4E-40A1-A14E-02A1E6E6FEA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66FDCB11-ADCA-4BAF-A276-2C137C8D8885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66FDCB11-ADCA-4BAF-A276-2C137C8D8885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66FDCB11-ADCA-4BAF-A276-2C137C8D8885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66FDCB11-ADCA-4BAF-A276-2C137C8D8885}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

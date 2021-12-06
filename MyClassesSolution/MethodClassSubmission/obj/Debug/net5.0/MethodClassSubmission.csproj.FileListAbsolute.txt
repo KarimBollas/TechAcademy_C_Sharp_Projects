@@ -1,0 +1,16 @@
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodClassSubmission\bin\Debug\net5.0\MethodClassSubmission.exe
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodClassSubmission\bin\Debug\net5.0\MethodClassSubmission.deps.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodClassSubmission\bin\Debug\net5.0\MethodClassSubmission.runtimeconfig.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodClassSubmission\bin\Debug\net5.0\MethodClassSubmission.runtimeconfig.dev.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodClassSubmission\bin\Debug\net5.0\MethodClassSubmission.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodClassSubmission\bin\Debug\net5.0\ref\MethodClassSubmission.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodClassSubmission\bin\Debug\net5.0\MethodClassSubmission.pdb
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodClassSubmission\obj\Debug\net5.0\MethodClassSubmission.csproj.AssemblyReference.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodClassSubmission\obj\Debug\net5.0\MethodClassSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodClassSubmission\obj\Debug\net5.0\MethodClassSubmission.AssemblyInfoInputs.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodClassSubmission\obj\Debug\net5.0\MethodClassSubmission.AssemblyInfo.cs
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodClassSubmission\obj\Debug\net5.0\MethodClassSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodClassSubmission\obj\Debug\net5.0\MethodClassSubmission.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodClassSubmission\obj\Debug\net5.0\ref\MethodClassSubmission.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodClassSubmission\obj\Debug\net5.0\MethodClassSubmission.pdb
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodClassSubmission\obj\Debug\net5.0\MethodClassSubmission.genruntimeconfig.cache
