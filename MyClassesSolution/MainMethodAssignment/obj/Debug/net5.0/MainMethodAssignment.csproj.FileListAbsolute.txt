@@ -3,3 +3,14 @@ C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MainM
 C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MainMethodAssignment\obj\Debug\net5.0\MainMethodAssignment.AssemblyInfoInputs.cache
 C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MainMethodAssignment\obj\Debug\net5.0\MainMethodAssignment.AssemblyInfo.cs
 C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MainMethodAssignment\obj\Debug\net5.0\MainMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MainMethodAssignment\bin\Debug\net5.0\MainMethodAssignment.exe
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MainMethodAssignment\bin\Debug\net5.0\MainMethodAssignment.deps.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MainMethodAssignment\bin\Debug\net5.0\MainMethodAssignment.runtimeconfig.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MainMethodAssignment\bin\Debug\net5.0\MainMethodAssignment.runtimeconfig.dev.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MainMethodAssignment\bin\Debug\net5.0\MainMethodAssignment.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MainMethodAssignment\bin\Debug\net5.0\ref\MainMethodAssignment.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MainMethodAssignment\bin\Debug\net5.0\MainMethodAssignment.pdb
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MainMethodAssignment\obj\Debug\net5.0\MainMethodAssignment.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MainMethodAssignment\obj\Debug\net5.0\ref\MainMethodAssignment.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MainMethodAssignment\obj\Debug\net5.0\MainMethodAssignment.pdb
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MainMethodAssignment\obj\Debug\net5.0\MainMethodAssignment.genruntimeconfig.cache
