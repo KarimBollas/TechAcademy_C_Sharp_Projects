@@ -11,6 +11,7 @@ namespace MethodsAndObjects
 
             Employee employee = new Employee(100, "Sample", "Student"); // object employee
             employee.SayName(); //calls method SayName (Person class)
+            Console.ReadLine();
         }
     }
 }

@@ -1,0 +1,16 @@
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodsAndObjects\bin\Debug\net5.0\MethodsAndObjects.exe
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodsAndObjects\bin\Debug\net5.0\MethodsAndObjects.deps.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodsAndObjects\bin\Debug\net5.0\MethodsAndObjects.runtimeconfig.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodsAndObjects\bin\Debug\net5.0\MethodsAndObjects.runtimeconfig.dev.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodsAndObjects\bin\Debug\net5.0\MethodsAndObjects.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodsAndObjects\bin\Debug\net5.0\ref\MethodsAndObjects.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodsAndObjects\bin\Debug\net5.0\MethodsAndObjects.pdb
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodsAndObjects\obj\Debug\net5.0\MethodsAndObjects.csproj.AssemblyReference.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodsAndObjects\obj\Debug\net5.0\MethodsAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodsAndObjects\obj\Debug\net5.0\MethodsAndObjects.AssemblyInfoInputs.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodsAndObjects\obj\Debug\net5.0\MethodsAndObjects.AssemblyInfo.cs
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodsAndObjects\obj\Debug\net5.0\MethodsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodsAndObjects\obj\Debug\net5.0\MethodsAndObjects.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodsAndObjects\obj\Debug\net5.0\ref\MethodsAndObjects.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodsAndObjects\obj\Debug\net5.0\MethodsAndObjects.pdb
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MethodsAndObjects\obj\Debug\net5.0\MethodsAndObjects.genruntimeconfig.cache
