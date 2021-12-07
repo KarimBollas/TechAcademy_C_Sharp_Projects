@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodSubmission", "MethodS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodClassSubmission", "MethodClassSubmission\MethodClassSubmission.csproj", "{66FDCB11-ADCA-4BAF-A276-2C137C8D8885}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassSubmitionAssignment", "ClassSubmitionAssignment\ClassSubmitionAssignment.csproj", "{DABC9AB3-B944-4BE8-9692-9F3A76ECFAA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassSubmitionAssignment", "ClassSubmitionAssignment\ClassSubmitionAssignment.csproj", "{DABC9AB3-B944-4BE8-9692-9F3A76ECFAA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsAndObjects", "MethodsAndObjects\MethodsAndObjects.csproj", "{35BC6F3E-4A90-4370-ACD3-66AB4456B592}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodsAndObjects", "MethodsAndObjects\MethodsAndObjects.csproj", "{35BC6F3E-4A90-4370-ACD3-66AB4456B592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClassProject", "ConsoleApp1\AbstractClassProject.csproj", "{443D51C0-738B-4E97-BCAF-C74294FDCB35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{35BC6F3E-4A90-4370-ACD3-66AB4456B592}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35BC6F3E-4A90-4370-ACD3-66AB4456B592}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35BC6F3E-4A90-4370-ACD3-66AB4456B592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{443D51C0-738B-4E97-BCAF-C74294FDCB35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{443D51C0-738B-4E97-BCAF-C74294FDCB35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{443D51C0-738B-4E97-BCAF-C74294FDCB35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{443D51C0-738B-4E97-BCAF-C74294FDCB35}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

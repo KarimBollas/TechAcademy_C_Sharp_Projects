@@ -8,11 +8,20 @@ namespace MethodsAndObjects
      * One called FirstName, the other LastName.----------*/
     public class Person
     {
-        public Person(string firstName="", string lastName="")
+        protected Person()
         {
-            this.SetFirstName(firstName);
-            this.SetLastName(lastName);
+            //this.SetFirstName(firstName);
+            //this.SetLastName(lastName);
         }
+        public Person(string firstName, string lastName="")
+        {
+            //this.SetFirstName(firstName);
+            this.FirstName = firstName;
+            //this.SetLastName(lastName);
+            this.LastName = lastName;
+        }
+
+        
 
         //public Person()
         //{

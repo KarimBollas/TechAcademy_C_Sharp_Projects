@@ -11,7 +11,7 @@ namespace MethodsAndObjects
     {
                
         private int Id;
-
+              
         public Employee(int id, string firstName, string lastName="") //Constructor 
         {
             this.SetFirstName(firstName);

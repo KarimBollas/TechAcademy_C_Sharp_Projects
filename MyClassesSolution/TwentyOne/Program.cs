@@ -7,7 +7,7 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            Game game = new Game();
+            TwentyOneGame game = new TwentyOneGame();
 
             game.Players = new List<string> { "Mayra", "David", "Engels" };
             game.ListPlayers();

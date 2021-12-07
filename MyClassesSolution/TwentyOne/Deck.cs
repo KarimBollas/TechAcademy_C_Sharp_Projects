@@ -54,7 +54,6 @@ namespace TwentyOne
 
         }
         public List<Card> Cards { get; set; }
-
         public void Shuffle(int times = 1)
         {
             for (int i = 0; i < times; i++)
