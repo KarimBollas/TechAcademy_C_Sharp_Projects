@@ -1,0 +1,16 @@
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MyResourcesProject\obj\Debug\net5.0\MyResourcesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MyResourcesProject\obj\Debug\net5.0\MyResourcesProject.AssemblyInfoInputs.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MyResourcesProject\obj\Debug\net5.0\MyResourcesProject.AssemblyInfo.cs
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MyResourcesProject\obj\Debug\net5.0\MyResourcesProject.csproj.CoreCompileInputs.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MyResourcesProject\bin\Debug\net5.0\MyResourcesProject.exe
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MyResourcesProject\bin\Debug\net5.0\MyResourcesProject.deps.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MyResourcesProject\bin\Debug\net5.0\MyResourcesProject.runtimeconfig.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MyResourcesProject\bin\Debug\net5.0\MyResourcesProject.runtimeconfig.dev.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MyResourcesProject\bin\Debug\net5.0\MyResourcesProject.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MyResourcesProject\bin\Debug\net5.0\ref\MyResourcesProject.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MyResourcesProject\bin\Debug\net5.0\MyResourcesProject.pdb
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MyResourcesProject\obj\Debug\net5.0\MyResourcesProject.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MyResourcesProject\obj\Debug\net5.0\ref\MyResourcesProject.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MyResourcesProject\obj\Debug\net5.0\MyResourcesProject.pdb
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MyResourcesProject\obj\Debug\net5.0\MyResourcesProject.genruntimeconfig.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\MyResourcesProject\obj\Debug\net5.0\MyResourcesProject.csproj.AssemblyReference.cache
