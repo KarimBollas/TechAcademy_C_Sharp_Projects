@@ -1,0 +1,15 @@
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ParsingEnumsProject\bin\Debug\net5.0\ParsingEnumsProject.exe
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ParsingEnumsProject\bin\Debug\net5.0\ParsingEnumsProject.deps.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ParsingEnumsProject\bin\Debug\net5.0\ParsingEnumsProject.runtimeconfig.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ParsingEnumsProject\bin\Debug\net5.0\ParsingEnumsProject.runtimeconfig.dev.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ParsingEnumsProject\bin\Debug\net5.0\ParsingEnumsProject.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ParsingEnumsProject\bin\Debug\net5.0\ref\ParsingEnumsProject.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ParsingEnumsProject\bin\Debug\net5.0\ParsingEnumsProject.pdb
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ParsingEnumsProject\obj\Debug\net5.0\ParsingEnumsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ParsingEnumsProject\obj\Debug\net5.0\ParsingEnumsProject.AssemblyInfoInputs.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ParsingEnumsProject\obj\Debug\net5.0\ParsingEnumsProject.AssemblyInfo.cs
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ParsingEnumsProject\obj\Debug\net5.0\ParsingEnumsProject.csproj.CoreCompileInputs.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ParsingEnumsProject\obj\Debug\net5.0\ParsingEnumsProject.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ParsingEnumsProject\obj\Debug\net5.0\ref\ParsingEnumsProject.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ParsingEnumsProject\obj\Debug\net5.0\ParsingEnumsProject.pdb
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ParsingEnumsProject\obj\Debug\net5.0\ParsingEnumsProject.genruntimeconfig.cache

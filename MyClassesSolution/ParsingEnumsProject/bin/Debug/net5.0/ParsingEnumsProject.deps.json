@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ParsingEnumsProject/1.0.0": {
+        "runtime": {
+          "ParsingEnumsProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParsingEnumsProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -17,13 +17,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassSubmitionAssignment", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodsAndObjects", "MethodsAndObjects\MethodsAndObjects.csproj", "{35BC6F3E-4A90-4370-ACD3-66AB4456B592}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphismProject", "PolymorphismProject\PolymorphismProject.csproj", "{64B30CB3-6656-4FCE-83AB-8537B2A05FAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolymorphismProject", "PolymorphismProject\PolymorphismProject.csproj", "{64B30CB3-6656-4FCE-83AB-8537B2A05FAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorsSubmission", "OperatorsSubmission\OperatorsSubmission.csproj", "{E99BCC72-29F2-42BF-844A-09929FE11C21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperatorsSubmission", "OperatorsSubmission\OperatorsSubmission.csproj", "{E99BCC72-29F2-42BF-844A-09929FE11C21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParametersProject", "ParametersProject\ParametersProject.csproj", "{048D3E74-C70E-4A8D-8304-2E5B006834E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParametersProject", "ParametersProject\ParametersProject.csproj", "{048D3E74-C70E-4A8D-8304-2E5B006834E0}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyResourcesProject", "MyResourcesProject\MyResourcesProject.csproj", "{78D10E40-92FB-4373-B61E-28AFFEB35E76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParsingEnumsProject", "ParsingEnumsProject\ParsingEnumsProject.csproj", "{69A56DFE-A606-4B34-BE42-D55E0CDE2707}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{78D10E40-92FB-4373-B61E-28AFFEB35E76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78D10E40-92FB-4373-B61E-28AFFEB35E76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78D10E40-92FB-4373-B61E-28AFFEB35E76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69A56DFE-A606-4B34-BE42-D55E0CDE2707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A56DFE-A606-4B34-BE42-D55E0CDE2707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A56DFE-A606-4B34-BE42-D55E0CDE2707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A56DFE-A606-4B34-BE42-D55E0CDE2707}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

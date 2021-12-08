@@ -17,7 +17,11 @@ namespace TwentyOne
             //game.ListPlayers();
             //game.Play();
 
-            Player<Card> player = new Player<Card>();
+            //Card card = new Card();
+            //card.Suit = Suit.Clubs.ToString();
+
+
+            //Player<Card> player = new Player<Card>();
 
             Deck deck = new Deck();            
             deck.Shuffle(3);
