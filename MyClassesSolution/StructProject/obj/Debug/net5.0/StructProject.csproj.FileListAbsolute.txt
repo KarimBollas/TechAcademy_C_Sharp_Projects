@@ -1,0 +1,15 @@
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\StructProject\bin\Debug\net5.0\StructProject.exe
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\StructProject\bin\Debug\net5.0\StructProject.deps.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\StructProject\bin\Debug\net5.0\StructProject.runtimeconfig.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\StructProject\bin\Debug\net5.0\StructProject.runtimeconfig.dev.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\StructProject\bin\Debug\net5.0\StructProject.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\StructProject\bin\Debug\net5.0\ref\StructProject.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\StructProject\bin\Debug\net5.0\StructProject.pdb
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\StructProject\obj\Debug\net5.0\StructProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\StructProject\obj\Debug\net5.0\StructProject.AssemblyInfoInputs.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\StructProject\obj\Debug\net5.0\StructProject.AssemblyInfo.cs
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\StructProject\obj\Debug\net5.0\StructProject.csproj.CoreCompileInputs.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\StructProject\obj\Debug\net5.0\StructProject.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\StructProject\obj\Debug\net5.0\ref\StructProject.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\StructProject\obj\Debug\net5.0\StructProject.pdb
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\StructProject\obj\Debug\net5.0\StructProject.genruntimeconfig.cache

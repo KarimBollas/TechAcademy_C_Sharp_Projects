@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LambdaProject/1.0.0": {
+        "dependencies": {
+          "PolymorphismProject": "1.0.0"
+        },
+        "runtime": {
+          "LambdaProject.dll": {}
+        }
+      },
+      "PolymorphismProject/1.0.0": {
+        "runtime": {
+          "PolymorphismProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LambdaProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PolymorphismProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
