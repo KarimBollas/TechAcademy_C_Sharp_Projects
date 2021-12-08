@@ -18,7 +18,7 @@ namespace TwentyOne
             base.ListPlayers();
         }
 
-        void WalkAway(Player player)
+        void IWalkAway.WalkAway(Player player)
         {
             throw new NotImplementedException();
         }
