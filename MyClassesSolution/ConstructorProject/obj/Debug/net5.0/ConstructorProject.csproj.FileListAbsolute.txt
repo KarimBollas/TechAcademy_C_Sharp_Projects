@@ -1,0 +1,15 @@
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ConstructorProject\bin\Debug\net5.0\ConstructorProject.exe
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ConstructorProject\bin\Debug\net5.0\ConstructorProject.deps.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ConstructorProject\bin\Debug\net5.0\ConstructorProject.runtimeconfig.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ConstructorProject\bin\Debug\net5.0\ConstructorProject.runtimeconfig.dev.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ConstructorProject\bin\Debug\net5.0\ConstructorProject.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ConstructorProject\bin\Debug\net5.0\ref\ConstructorProject.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ConstructorProject\bin\Debug\net5.0\ConstructorProject.pdb
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ConstructorProject\obj\Debug\net5.0\ConstructorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ConstructorProject\obj\Debug\net5.0\ConstructorProject.AssemblyInfoInputs.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ConstructorProject\obj\Debug\net5.0\ConstructorProject.AssemblyInfo.cs
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ConstructorProject\obj\Debug\net5.0\ConstructorProject.csproj.CoreCompileInputs.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ConstructorProject\obj\Debug\net5.0\ConstructorProject.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ConstructorProject\obj\Debug\net5.0\ref\ConstructorProject.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ConstructorProject\obj\Debug\net5.0\ConstructorProject.pdb
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ConstructorProject\obj\Debug\net5.0\ConstructorProject.genruntimeconfig.cache

@@ -15,3 +15,4 @@ C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\Polym
 C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\PolymorphismProject\obj\Debug\net5.0\ref\PolymorphismProject.dll
 C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\PolymorphismProject\obj\Debug\net5.0\PolymorphismProject.pdb
 C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\PolymorphismProject\obj\Debug\net5.0\PolymorphismProject.genruntimeconfig.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\PolymorphismProject\obj\Debug\net5.0\PolymorphismProject.csproj.AssemblyReference.cache

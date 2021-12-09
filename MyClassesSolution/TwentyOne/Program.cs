@@ -1,17 +1,25 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using Casino;
+using System.Linq;
 
 namespace TwentyOne
+
 {
     class Program
     {
+        
         static void Main(string[] args)
         {
-            string someText = "This is some text.";
-            File.WriteAllText(@"C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\TwentyOne\Logs\log.txt",someText);
+            const string casinoName = "Grand Hotel Casino";
+            Player newPLayer = new Player("Karim");
+            Guid identifier = Guid.NewGuid();
 
-            Console.WriteLine("WELCOME to the Grand Hotel Casino.\nLet's start by telling me your name");
+            //string someText = "This is some text.";
+            //File.WriteAllText(@"C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\TwentyOne\Logs\log.txt",someText);
+
+            Console.WriteLine("WELCOME to the {0}.\nLet's start by telling me your name",casinoName);
             string playerName = Console.ReadLine();
             
             Console.WriteLine("And how much money did you bring today?");
@@ -23,6 +31,7 @@ namespace TwentyOne
             if (answer == "yes" || answer == "yeah"|| answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName,bank);
+                player.Id = Guid.NewGuid();
                 Game game = new TwentyOneGame();
                 
                 game += player;
