@@ -13,3 +13,4 @@ C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\Parsi
 C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ParsingEnumsProject\obj\Debug\net5.0\ref\ParsingEnumsProject.dll
 C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ParsingEnumsProject\obj\Debug\net5.0\ParsingEnumsProject.pdb
 C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ParsingEnumsProject\obj\Debug\net5.0\ParsingEnumsProject.genruntimeconfig.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\ParsingEnumsProject\obj\Debug\net5.0\ParsingEnumsProject.csproj.AssemblyReference.cache

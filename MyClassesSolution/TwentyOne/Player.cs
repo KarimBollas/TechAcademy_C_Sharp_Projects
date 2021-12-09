@@ -14,10 +14,26 @@ namespace TwentyOne
             Balance = beginningBalance;
             Name = name;
         }
-        public List<Card> Hand { get; set; }
+        public List<Card> _hand = new List<Card>();
+        public List<Card> Hand { get { return _hand; } set { _hand = value; } }
         public int Balance { get; set; }
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
+        public bool Stay { get; set; }
+
+        public bool Bet(int amount)
+        {
+            if (Balance - amount<0)
+            {
+                Console.WriteLine("You don't have enough to place a bet that size.");
+                return false;
+            }
+            else
+            {
+                Balance -= amount;
+                return true;
+            }
+        }
 
         public static Game operator +(Game game, Player player)
         {
