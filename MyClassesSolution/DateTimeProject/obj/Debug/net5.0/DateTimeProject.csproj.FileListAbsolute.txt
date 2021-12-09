@@ -1,0 +1,16 @@
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\DateTimeProject\bin\Debug\net5.0\DateTimeProject.exe
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\DateTimeProject\bin\Debug\net5.0\DateTimeProject.deps.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\DateTimeProject\bin\Debug\net5.0\DateTimeProject.runtimeconfig.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\DateTimeProject\bin\Debug\net5.0\DateTimeProject.runtimeconfig.dev.json
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\DateTimeProject\bin\Debug\net5.0\DateTimeProject.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\DateTimeProject\bin\Debug\net5.0\ref\DateTimeProject.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\DateTimeProject\bin\Debug\net5.0\DateTimeProject.pdb
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\DateTimeProject\obj\Debug\net5.0\DateTimeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\DateTimeProject\obj\Debug\net5.0\DateTimeProject.AssemblyInfoInputs.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\DateTimeProject\obj\Debug\net5.0\DateTimeProject.AssemblyInfo.cs
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\DateTimeProject\obj\Debug\net5.0\DateTimeProject.csproj.CoreCompileInputs.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\DateTimeProject\obj\Debug\net5.0\DateTimeProject.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\DateTimeProject\obj\Debug\net5.0\ref\DateTimeProject.dll
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\DateTimeProject\obj\Debug\net5.0\DateTimeProject.pdb
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\DateTimeProject\obj\Debug\net5.0\DateTimeProject.genruntimeconfig.cache
+C:\Users\Karim\source\repos\TechAcademy_C_Sharp_Projects\MyClassesSolution\DateTimeProject\obj\Debug\net5.0\DateTimeProject.csproj.AssemblyReference.cache
