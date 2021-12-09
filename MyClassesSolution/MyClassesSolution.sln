@@ -29,15 +29,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParsingEnumsProject", "Pars
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StructProject", "StructProject\StructProject.csproj", "{D445ECB8-EE4E-436E-B0D6-05164BE38DE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaProject", "LambdaProject\LambdaProject.csproj", "{256B611D-7F19-4E97-BDF4-2E2F795CDA02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaProject", "LambdaProject\LambdaProject.csproj", "{256B611D-7F19-4E97-BDF4-2E2F795CDA02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputFileProject", "InputFileProject\InputFileProject.csproj", "{2942381E-B446-4A86-8675-04EF7043B04D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InputFileProject", "InputFileProject\InputFileProject.csproj", "{2942381E-B446-4A86-8675-04EF7043B04D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeProject", "DateTimeProject\DateTimeProject.csproj", "{D90F6DB4-2796-4E8A-883C-42BB52397147}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateTimeProject", "DateTimeProject\DateTimeProject.csproj", "{D90F6DB4-2796-4E8A-883C-42BB52397147}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casino", "Casino\Casino.csproj", "{187CB744-A3DD-4C09-92B5-3E7E09683D77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Casino", "Casino\Casino.csproj", "{187CB744-A3DD-4C09-92B5-3E7E09683D77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorProject", "ConstructorProject\ConstructorProject.csproj", "{FFAEB3F1-68FB-4692-A9CB-A58DCFCE2B60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructorProject", "ConstructorProject\ConstructorProject.csproj", "{FFAEB3F1-68FB-4692-A9CB-A58DCFCE2B60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatchProject", "TryCatchProject\TryCatchProject.csproj", "{56D62D20-61C8-4E42-A695-BBAD7410D161}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{FFAEB3F1-68FB-4692-A9CB-A58DCFCE2B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFAEB3F1-68FB-4692-A9CB-A58DCFCE2B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFAEB3F1-68FB-4692-A9CB-A58DCFCE2B60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56D62D20-61C8-4E42-A695-BBAD7410D161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D62D20-61C8-4E42-A695-BBAD7410D161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D62D20-61C8-4E42-A695-BBAD7410D161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D62D20-61C8-4E42-A695-BBAD7410D161}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
