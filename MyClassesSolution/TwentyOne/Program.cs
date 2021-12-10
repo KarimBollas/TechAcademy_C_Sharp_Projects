@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.IO;
 using Casino;
 using System.Linq;
+using System.Data.SqlClient;
+using System.Data;
 
 namespace TwentyOne
 
@@ -12,6 +14,10 @@ namespace TwentyOne
         
         static void Main(string[] args)
         {
+            const string connectionString = @"Data Source=(localdb)\ProjectsV13;Initial Catalog=TwentyOneGame;
+                                        Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;
+                                        ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+
             const string casinoName = "Grand Hotel Casino";
             Player newPLayer = new Player("Karim");
             Guid identifier = Guid.NewGuid();
@@ -21,7 +27,20 @@ namespace TwentyOne
 
             Console.WriteLine("WELCOME to the {0}.\nLet's start by telling me your name",casinoName);
             string playerName = Console.ReadLine();
-
+            if (playerName.ToLower()=="admin")
+            {
+                List<ExceptionEntity> Exceptions = ReadExceptions(connectionString);
+                foreach (ExceptionEntity exception in Exceptions)
+                {
+                    Console.Write(exception.Id + " | ");
+                    Console.Write(exception.ExceptionType + " | ");
+                    Console.Write(exception.ExceptionMessage + " | ");
+                    Console.Write(exception.TimeStamp+" | ");
+                    Console.WriteLine();
+                }
+                Console.ReadLine();
+                return;
+            }
             bool validAnswer = false;
             int bank = 0;
 
@@ -59,12 +78,14 @@ namespace TwentyOne
                     {
                         
                         Console.WriteLine("{0}\nSecurity! Kick this person out.",ex.Message);
+                        UpdateDbWithException(ex, connectionString);
                         Console.ReadLine();
                         return;
                     }
                     catch (Exception ex)
                     {
                         Console.WriteLine("Error, please contact your System Administratr.\n{0}", ex.Message);
+                        UpdateDbWithException(ex, connectionString);
                         Console.ReadLine();
                         return;
                     }
@@ -80,6 +101,54 @@ namespace TwentyOne
             Console.Read();
         }
         
-        
+        private static void UpdateDbWithException(Exception exception, string connectionString)
+        {
+            
+            string queryString = "INSERT INTO Exceptions (ExceptionType, ExceptionMessage, TimeStamp) VALUES " +
+                                    "(@ExceptionType, @ExceptionMessage, @TimeStamp);";
+
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                SqlCommand command = new SqlCommand(queryString, connection);
+                command.Parameters.Add("@ExceptionType", SqlDbType.VarChar);
+                command.Parameters.Add("@ExceptionMessage", SqlDbType.VarChar);
+                command.Parameters.Add("@TimeStamp",SqlDbType.DateTime);
+
+                command.Parameters["@ExceptionType"].Value = exception.GetType().ToString();
+                command.Parameters["@ExceptionMessage"].Value = exception.Message;
+                command.Parameters["@TimeStamp"].Value = DateTime.Now;
+
+                command.Connection.Open();
+                command.ExecuteNonQuery();
+                command.Connection.Close();
+            }
+                                    
+        }
+        private static List<ExceptionEntity> ReadExceptions(string connectionString)
+        {
+            string queryString = @"Select Id, ExceptionType, ExceptionMessage, TimeStamp FROM Exceptions;";
+            List<ExceptionEntity> Exceptions = new List<ExceptionEntity>();
+
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                SqlCommand command = new SqlCommand(queryString, connection);
+                connection.Open();
+                SqlDataReader reader = command.ExecuteReader();
+
+                while (reader.Read())
+                {
+                    ExceptionEntity exception = new ExceptionEntity();
+                    exception.Id = Convert.ToInt32(reader["Id"]);
+                    exception.ExceptionType = reader["ExceptionType"].ToString();
+                    exception.ExceptionMessage = reader["ExceptionMessage"].ToString();
+                    exception.TimeStamp = (DateTime)reader["TimeStamp"];
+                    Exceptions.Add(exception);
+                }
+                connection.Close();
+            }
+            return Exceptions;
+
+        }
+
     }
 }
