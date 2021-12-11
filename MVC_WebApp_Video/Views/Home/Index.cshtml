@@ -1,0 +1,34 @@
+﻿@*
+
+    @using System.Collections.Generic;
+    @model List<string>
+
+    @foreach (string name in Model)
+    {
+        <h1>
+            @name
+        </h1>
+    }
+*@
+
+@*
+
+    @model int
+
+    <h1>
+        @Model
+    </h1>
+*@
+
+
+@model MVC_WebApp_Video.Models.User
+
+<h2>
+    @Model.Id   
+</h2>
+<h3>
+    @Model.FirstName
+    @Model.LastName
+    @Model.Age
+</h3>
+
