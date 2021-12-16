@@ -156,10 +156,16 @@ namespace CarInsurance.Controllers
                 quote += 25;
             }
 
-            if (carMake.Equals("Porshe", StringComparison.OrdinalIgnoreCase) && carMake.Equals("911 Carrera", StringComparison.OrdinalIgnoreCase))
+            if (carMake.Equals("Porshe", StringComparison.OrdinalIgnoreCase) )
             {
                 quote += 25;
+                if (carMake.Equals("911 Carrera", StringComparison.OrdinalIgnoreCase))
+                {
+                    quote += 25;
+                }
+                
             }
+
             if (tickets>0)
             {
                 quote += (tickets * 10);
