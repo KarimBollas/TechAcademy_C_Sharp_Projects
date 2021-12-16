@@ -1,0 +1,43 @@
+﻿@using CarInsurance.ViewModels
+
+@model List<InsureeVm>
+
+
+<table class="table">
+
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model[0].FirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model[0].LastName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model[0].EmailAddress)
+        </th>        
+        <th>
+            @Html.DisplayNameFor(model => model[0].Quote)
+        </th>
+        <th></th>
+    </tr>
+
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmailAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quote)
+            </td>
+
+        </tr>
+    }
+</table>
