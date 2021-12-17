@@ -1,0 +1,15 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Time Now</h1>
+    <h1>@DateTime.Now</h1>
+
+    @{ var myLink = "https://www.learncodinganywhere.com/";
+        var myMsg = "The Tech Academy";}
+   
+    <h2>Learn in <a href=@myLink>@myMsg</a>.</h2>
+</div>
